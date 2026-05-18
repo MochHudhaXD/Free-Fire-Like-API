@@ -1,134 +1,38 @@
 [
-    {
-        "uid": "4777733947",
-        "password": "C1F684CC735F6B9B83C2A05F625A7B8C7D27232FADC7C1A0F35A7A328EE93008"
-    },
-    {
-        "uid": "4778452823",
-        "password": "5CADA051D7FF8CED4CA73B6E880ECC9F216871657652402BB193D5E00D1FDBD7"
-    },
-    {
-        "uid": "4782185221",
-        "password": "9C33D5DC13E09762D381A777AD6352E7C675BF621BA68B8AF79E529738B0D11A"
-    },
-    {
-        "uid": "4791391726",
-        "password": "898215B29C9942DFE119972336212A23B67D731C175632A216486FAAA30C81FD"
-    },
-    {
-        "uid": "4803681248",
-        "password": "FEB6BA5A4A936CA4FE376C62B51448CE6FD28C52543D98EF3B0CBA7B7CF4DA33"
-    },
-    {
-        "uid": "4746245152",
-        "password": "39EF196D93A4E73044DB314B14AFE4B6D956150AED47B4BB8AA80CEAA2CC5167"
-    },
-    {
-        "uid": "4646841642",
-        "password": "0D0B4BBD4365E2F78A37D4A1C8CD12527A2036F554C6FC9CFA4BCFCB63A9625B"
-    },
-    {
-        "uid": "4319893571",
-        "password": "1075C74699882761779BA676D6E3F4F86A4368A1A8450D0979EA870537918CCD"
-    },
-    {
-        "uid": "4230162189",
-        "password": "JAMIUAR_CODX-1AMVG5GFA"
-    },
-    {
-        "uid": "4230162336",
-        "password": "JAMIUAR_CODX-PMCSY1TL3"
-    },
-    {
-        "uid": "4230162458",
-        "password": "JAMIUAR_CODX-VJJWLWED5"
-    },
-    {
-        "uid": "4230162622",
-        "password": "JAMIUAR_CODX-TIDOE6IVE"
-    },
-    {
-        "uid": "4230163361",
-        "password": "JAMIUAR_CODX-45I3ANIYS"
-    },
-    {
-        "uid": "4230163976",
-        "password": "JAMIUAR_CODX-5YYVZMV0R"
-    },
-    {
-        "uid": "4230164101",
-        "password": "JAMIUAR_CODX-1GY1PQPHN"
-    },
-    {
-        "uid": "4230164281",
-        "password": "JAMIUAR_CODX-WGH5THPTA"
-    },
-    {
-        "uid": "4230165072",
-        "password": "JAMIUAR_CODX-TN61GSGKF"
-    },
-    {
-        "uid": "4230165736",
-        "password": "JAMIUAR_CODX-CBJCSNKFW"
-    },
-    {
-        "uid": "4230165854",
-        "password": "JAMIUAR_CODX-F3HUNS7X6"
-    },
-    {
-        "uid": "4230165997",
-        "password": "JAMIUAR_CODX-ZFR414V2R"
-    },
-    {
-        "uid": "4230166232",
-        "password": "JAMIUAR_CODX-OTFHP4JIE"
-    },
-    {
-        "uid": "4230166405",
-        "password": "JAMIUAR_CODX-RBZSLNRCA"
-    },
-    {
-        "uid": "4230166584",
-        "password": "JAMIUAR_CODX-NDCFPJHCW"
-    },
-    {
-        "uid": "4230166734",
-        "password": "JAMIUAR_CODX-FCPUZOQEZ"
-    },
-    {
-        "uid": "4230166856",
-        "password": "JAMIUAR_CODX-APNB4LAHO"
-    },
-    {
-        "uid": "4230167474",
-        "password": "JAMIUAR_CODX-IESE4YRNV"
-    },
-    {
-        "uid": "4230168256",
-        "password": "JAMIUAR_CODX-2KXNKZR0H"
-    },
-    {
-        "uid": "4230168392",
-        "password": "JAMIUAR_CODX-IYZMLURL2"
-    },
-    {
-        "uid": "4670547781",
-        "password": "HRE-VIZJGZKXV-CODEX"
-    },
-    {
-        "uid": "4670547782",
-        "password": "HRE-DYKXOZHMT-CODEX"
-    },
-    {
-        "uid": "4670547784",
-        "password": "HRE-PBL1CVJKY-CODEX"
-    },
-    {
-        "uid": "4670547780",
-        "password": "HRE-QDQVD0V2D-CODEX"
-    },
-    {
-        "uid": "4670547785",
-        "password": "HRE-CELJFOWEA-CODEX"
-    }
+  {
+    "uid": "4679147687",
+    "password": "D30D23EAAC715B10702A53097FC48C97746224A264309A19BE0D404F2E479A35"
+  },
+  {
+    "uid": "4777733947",
+    "password": "C1F684CC735F6B9B83C2A05F625A7B8C7D27232FADC7C1A0F35A7A328EE93008"
+  },
+  {
+    "uid": "4778452823",
+    "password": "5CADA051D7FF8CED4CA73B6E880ECC9F216871657652402BB193D5E00D1FDBD7"
+  },
+  {
+    "uid": "4782185221",
+    "password": "9C33D5DC13E09762D381A777AD6352E7C675BF621BA68B8AF79E529738B0D11A"
+  },
+  {
+    "uid": "4791391726",
+    "password": "898215B29C9942DFE119972336212A23B67D731C175632A216486FAAA30C81FD"
+  },
+  {
+    "uid": "4803681248",
+    "password": "FEB6BA5A4A936CA4FE376C62B51448CE6FD28C52543D98EF3B0CBA7B7CF4DA33"
+  },
+  {
+    "uid": "4746245152",
+    "password": "39EF196D93A4E73044DB314B14AFE4B6D956150AED47B4BB8AA80CEAA2CC5167"
+  },
+  {
+    "uid": "4646841642",
+    "password": "0D0B4BBD4365E2F78A37D4A1C8CD12527A2036F554C6FC9CFA4BCFCB63A9625B"
+  },
+  {
+    "uid": "4319893571",
+    "password": "1075C74699882761779BA676D6E3F4F86A4368A1A8450D0979EA870537918CCD"
+  }
 ]
